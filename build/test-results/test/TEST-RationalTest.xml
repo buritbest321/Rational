@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RationalTest" tests="33" skipped="0" failures="0" errors="0" timestamp="2024-09-07T19:08:14" hostname="DESKTOP-1CAVFOU" time="0.013">
+  <properties/>
+  <testcase name="multiplyZeroDenominator" classname="RationalTest" time="0.004"/>
+  <testcase name="subtractPositive" classname="RationalTest" time="0.0"/>
+  <testcase name="compareEquals" classname="RationalTest" time="0.0"/>
+  <testcase name="compareZeroDenominator" classname="RationalTest" time="0.001"/>
+  <testcase name="divideWholeNumber" classname="RationalTest" time="0.0"/>
+  <testcase name="subtractNegative" classname="RationalTest" time="0.0"/>
+  <testcase name="notEqualsDifferentObject" classname="RationalTest" time="0.0"/>
+  <testcase name="dividePositive" classname="RationalTest" time="0.0"/>
+  <testcase name="addZeroNumerator" classname="RationalTest" time="0.0"/>
+  <testcase name="subtractZeroNumerator" classname="RationalTest" time="0.0"/>
+  <testcase name="divideNegative" classname="RationalTest" time="0.0"/>
+  <testcase name="divideZeroNumerator" classname="RationalTest" time="0.0"/>
+  <testcase name="compareToOtherObject" classname="RationalTest" time="0.001"/>
+  <testcase name="compareLess" classname="RationalTest" time="0.0"/>
+  <testcase name="notEqualsDenominators" classname="RationalTest" time="0.0"/>
+  <testcase name="addPositive" classname="RationalTest" time="0.003"/>
+  <testcase name="multiplyWholeNumber" classname="RationalTest" time="0.0"/>
+  <testcase name="addNegative" classname="RationalTest" time="0.0"/>
+  <testcase name="subtractWholeNumber" classname="RationalTest" time="0.0"/>
+  <testcase name="divideZeroDenominator" classname="RationalTest" time="0.001"/>
+  <testcase name="multiplyPositive" classname="RationalTest" time="0.0"/>
+  <testcase name="addWholeNumber" classname="RationalTest" time="0.0"/>
+  <testcase name="multiplyNegative" classname="RationalTest" time="0.0"/>
+  <testcase name="toStringTest" classname="RationalTest" time="0.0"/>
+  <testcase name="zeroDenomConstructor" classname="RationalTest" time="0.0"/>
+  <testcase name="equalsRationals" classname="RationalTest" time="0.001"/>
+  <testcase name="compareGreater" classname="RationalTest" time="0.0"/>
+  <testcase name="notEquals" classname="RationalTest" time="0.0"/>
+  <testcase name="subtractZeroDenominator" classname="RationalTest" time="0.001"/>
+  <testcase name="EqualsZeroDenominators" classname="RationalTest" time="0.0"/>
+  <testcase name="addZeroDenominator" classname="RationalTest" time="0.0"/>
+  <testcase name="notEqualsNumerators" classname="RationalTest" time="0.0"/>
+  <testcase name="multiplyZeroNumerator" classname="RationalTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

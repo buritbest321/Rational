@@ -1,0 +1,36 @@
+Testsuite: RationalTest
+Tests run: 33, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.066 sec
+
+Testcase: multiplyZeroDenominator took 0.005 sec
+Testcase: subtractPositive took 0 sec
+Testcase: compareEquals took 0 sec
+Testcase: compareZeroDenominator took 0.001 sec
+Testcase: divideWholeNumber took 0 sec
+Testcase: subtractNegative took 0 sec
+Testcase: notEqualsDifferentObject took 0 sec
+Testcase: dividePositive took 0 sec
+Testcase: addZeroNumerator took 0 sec
+Testcase: subtractZeroNumerator took 0 sec
+Testcase: divideNegative took 0 sec
+Testcase: divideZeroNumerator took 0 sec
+Testcase: compareToOtherObject took 0.001 sec
+Testcase: compareLess took 0 sec
+Testcase: notEqualsDenominators took 0 sec
+Testcase: addPositive took 0 sec
+Testcase: multiplyWholeNumber took 0 sec
+Testcase: addNegative took 0 sec
+Testcase: subtractWholeNumber took 0 sec
+Testcase: divideZeroDenominator took 0 sec
+Testcase: multiplyPositive took 0 sec
+Testcase: addWholeNumber took 0.001 sec
+Testcase: multiplyNegative took 0 sec
+Testcase: toStringTest took 0 sec
+Testcase: zeroDenomConstructor took 0 sec
+Testcase: equalsRationals took 0 sec
+Testcase: compareGreater took 0 sec
+Testcase: notEquals took 0 sec
+Testcase: subtractZeroDenominator took 0 sec
+Testcase: EqualsZeroDenominators took 0.001 sec
+Testcase: addZeroDenominator took 0 sec
+Testcase: notEqualsNumerators took 0 sec
+Testcase: multiplyZeroNumerator took 0 sec
